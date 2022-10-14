@@ -1,9 +1,4 @@
-### Olá! Eu sou alissonbri
-
-- 🔭 Hoje eu trabalho com front-end.
-- 🌱 Estudante de Ciência da computação
-- 😄 Pronouns: ele/ela
-
+## OLá eu sou Alisson Brito, desenvolvedor e apaixonado portecnologia! 
 <div align="center">
   <a href="https://github.com/alissonbri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonbri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
