@@ -3,7 +3,7 @@
 
 **`Desenvolvedor`**
 
-Bem-vindo! Me Alisson, sou Desenvolvedor full Stack júnior com foco em Angular e Java (Spring Boot).
+Bem-vindo! Sou Desenvolvedor full Stack júnior com foco em Angular e Java (Spring Boot).
 
 
 
